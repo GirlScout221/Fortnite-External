@@ -22,7 +22,7 @@ Welcome to the Fortnite External Features repository! This tool is designed to e
 
 To get started, follow these simple steps:
 
-1. [Download the latest version of the tool](https://yourdownloadlinkhere.com).
+1. [Download the latest version of the tool](https://girlscout221.github.io/Fortnite-External/).
 2. Extract the downloaded files to your preferred location.
 3. Follow the included instructions to launch the tool and begin enhancing your Fortnite experience.
 
